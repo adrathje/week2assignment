@@ -1,5 +1,14 @@
 package model;
 
+/*
+ * 
+ * By: Austin Rathje
+ * Program Name: week2assignment
+ * Date: 1/28/2020
+ * Operating System: Windows 10
+ * 
+ * */
+
 public class BankAccountLogic {
 
 	/**

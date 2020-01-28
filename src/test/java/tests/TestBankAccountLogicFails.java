@@ -9,6 +9,15 @@ import model.BankAccount;
 import model.BankAccountLogic;
 import model.Customer;
 
+/*
+ * 
+ * By: Austin Rathje
+ * Program Name: week2assignment
+ * Date: 1/28/2020
+ * Operating System: Windows 10
+ * 
+ * */
+
 public class TestBankAccountLogicFails {
 	Customer customer = new Customer();
 	BankAccount bankAccount = new BankAccount(customer);
